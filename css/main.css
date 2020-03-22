@@ -631,3 +631,8 @@ border-right: 1px solid white;
     display:none;
   }
 }
+@media only screen and (max-width: 450px) {
+  .customer-driven-content{
+    padding:0%;
+  }
+}
